@@ -9,6 +9,7 @@
   "author": "realStandal",
   "license": "MIT",
   "dependencies": {
-    "discord-rich-presence": "0.0.8"
+    "discord-rich-presence": "0.0.8",
+    "find-process": "^1.4.2"
   }
 }
