@@ -9,6 +9,7 @@
   "author": "realStandal",
   "license": "MIT",
   "dependencies": {
+    "@arcsine/win-info": "^0.1.2",
     "discord-rich-presence": "0.0.8",
     "find-process": "^1.4.2"
   }
